@@ -20,6 +20,6 @@ If you use this code for your research, please cite our papers.
   author={Sardari, Faegheh and Mustafa, Armin and Jackson, Philip JB and Hilton, Adrian},
   journal={European Conference on Computer Vision},
   year={2024}
-}
-
+} 
+```
 ## Acknowledgments
