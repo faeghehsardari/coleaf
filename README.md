@@ -1,10 +1,8 @@
 
-<img src='imgs/CoLeaF.png' align="right" width=384>
+# CoLeaF: A Contrastive-Collaborative Learning Framework for Weakly Supervised Audio-Visual Video Parsing
+<img src='imgs/CoLeaF.png' width=384>
 
 <br><br><br>
-
-# CoLeaF: A Contrastive-Collaborative Learning Framework for Weakly Supervised Audio-Visual Video Parsing
-
 ## Prerequisites
 - Linux 
 - Python 3
