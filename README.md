@@ -1,5 +1,5 @@
 
-<img src='imgs/horse2zebra.gif' align="right" width=384>
+<img src='imgs/CoLeaF.png' align="right" width=384>
 
 <br><br><br>
 
