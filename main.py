@@ -328,15 +328,6 @@ def eval(args, model, val_loader, set, v_thres=0.4, target_class=None):
             if args.mode == 'select_thresholds':
                 v_thres_list[0, target_class] = v_thres
 
-            if args.mode == 'test':
-                excel_path = osp.join(args.model_save_dir, args.group_name, args.exp_name) + '_early_3.xlsx'
-                # excel_path = osp.join(args.model_save_dir, args.group_name) + '/cmpae_s0_early.xlsx'
-                wb = load_workbook(excel_path)
-                ws = wb['Thres']
-                for idx in range(25):
-                # for idx in range(5):
-                    v_thres_list[0, idx] = ws['A'][idx].value
-
             oa = (a_prob.cpu().detach().numpy() >= 0.52).astype(np.int_)
             ov = (v_prob.cpu().detach().numpy() >= v_thres_list).astype(np.int_)
 
