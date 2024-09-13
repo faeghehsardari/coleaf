@@ -1,8 +1,9 @@
 
 ## CoLeaF: A Contrastive-Collaborative Learning Framework for Weakly Supervised Audio-Visual Video Parsing
 
-Faegheh Sardrai, Armin Mustafa, Philip J.B. Jackson, Adrian Hilton
+[Faegheh Sardari](https://scholar.google.com/citations?user=_8dV3CgAAAAJ&hl=en&oi=ao), [Armin Mustafa](https://scholar.google.com/citations?user=0xOHqkMAAAAJ&hl=en), [Philip JB Jacksonn](https://scholar.google.com/citations?user=vgue80YAAAAJ&hl=en), [Adrian Hilton](https://scholar.google.com/citations?user=vTIYTNQAAAAJ&hl=en)
 
+Code for ECCV 2024 paper [CoLeaF: A Contrastive-Collaborative Learning Framework for Weakly Supervised Audio-Visual Video Parsing](https://arxiv.org/abs/2405.10690)
 
 <br><br><br>
 <img src='imgs/CoLeaF.png' width="900" style="max-width: 100%;">
