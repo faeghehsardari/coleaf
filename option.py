@@ -2,7 +2,7 @@ import argparse
 
 
 def build_args():
-    feat_dir = '/media/faegheh/DATA1/Datasets/LLP_Dataset/feats/'
+    feat_dir = 'data/features/'
     anno_dir = 'data/annotations/'
 
     parser = argparse.ArgumentParser(description='PyTorch Implementation of Audio-Visual Video Parsing')
