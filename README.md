@@ -34,7 +34,7 @@ If you use this code for your research, please cite our papers.
 This repository includes the modified codes from:
 - HAN (ECCV-2020) https://github.com/YapengTian/AVVP-ECCV20 
 - JoMoLD (ECCV-2022) https://github.com/MCG-NJU/JoMoLD
-- CMPAE (CVPR-2023) https://github.com/MengyuanChen21/CVPR2023-CMPAE?tab=readme-ov-file
+- CMPAE (CVPR-2023) https://github.com/MengyuanChen21/CVPR2023-CMPAE?tab=readme-ov-file shared under this license (https://github.com/MengyuanChen21/CVPR2023-CMPAE/blob/main/LICENSE)
   
 We are grateful to the creators of these repositories.
 
