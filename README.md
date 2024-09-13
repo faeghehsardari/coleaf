@@ -7,6 +7,8 @@
 - Linux 
 - Python 3
 - CPU or NVIDIA GPU + CUDA CuDNN
+- 
+## Data Preparation
 
 [Project](https://github.com/faeghehsardari/coleaf) |  [Paper](https://arxiv.org/pdf/2405.10690)
 
