@@ -7,9 +7,9 @@
 - Linux 
 - Python 3
 - CPU or NVIDIA GPU + CUDA CuDNN
-- 
-## Data Preparation
 
+## Data Preparation
+1. Download the audio and visual features from https://github.com/YapengTian/AVVP-ECCV20 (ECCV-2020)
 [Project](https://github.com/faeghehsardari/coleaf) |  [Paper](https://arxiv.org/pdf/2405.10690)
 
 ## Citation
