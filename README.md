@@ -9,7 +9,9 @@
 - CPU or NVIDIA GPU + CUDA CuDNN
 
 ## Data Preparation
-1. Download the audio and visual features from https://github.com/YapengTian/AVVP-ECCV20 (ECCV-2020)
+1. Create a folder named 'features' inside the data folder
+2. Download the audio and visual features from https://github.com/YapengTian/AVVP-ECCV20 (ECCV-2020) and transfer them to the 'features' folder.
+   
 [Project](https://github.com/faeghehsardari/coleaf) |  [Paper](https://arxiv.org/pdf/2405.10690)
 
 ## Citation
