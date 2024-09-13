@@ -10,7 +10,13 @@
 
 ## Data Preparation
 1. Create a folder named 'features' inside the data folder
-2. Download the audio and visual features from https://github.com/YapengTian/AVVP-ECCV20 (ECCV-2020) and transfer them to the 'features' folder.
+2. Download the audio and visual features from https://github.com/YapengTian/AVVP-ECCV20 and transfer them to the 'features' folder.
+
+## Train & Test
+Run main.py 
+
+## Test our pretrianed model
+Run main.py --mode test
    
 [Project](https://github.com/faeghehsardari/coleaf) |  [Paper](https://arxiv.org/pdf/2405.10690)
 
