@@ -31,3 +31,9 @@ If you use this code for your research, please cite our papers.
 } 
 ```
 ## Acknowledgments
+This repository includes the modified codes from:
+- HAN (ECCV-2020) https://github.com/YapengTian/AVVP-ECCV20 
+- JoMoLD (ECCV-2022) https://github.com/MCG-NJU/JoMoLD
+- CMPAE (CVPR-2023) https://github.com/MengyuanChen21/CVPR2023-CMPAE?tab=readme-ov-file
+  We are grateful to the creators of these excellent repositories
+This research is also supported by UKRI EPSRC Platform Grant EP/P022529/1, and EPSRC BBC Prosperity Partnership AI4ME: Future Personalised ObjectBased Media Experiences Delivered at Scale Anywhere EP/V038087/1.
